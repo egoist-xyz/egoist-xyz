@@ -31,7 +31,7 @@ Cześć! Jestem **eg0ist**. Moja przygoda z programowaniem zaczęła się w 2020
 
 ---
 
-![Moja strona][<img src="https://img.shields.io/badge/Website-eg0ist.xyz-00FF41?style=for-the-badge&logo=google-chrome&logoColor=white">](https://eg0ist.xyz)
+[<img src="https://img.shields.io/badge/Website-eg0ist.xyz-00FF41?style=for-the-badge&logo=google-chrome&logoColor=white">](https://eg0ist.xyz)
 
 ---
 <p align="center">
