@@ -1,4 +1,4 @@
-# ⚡ Welcome to my system, I'm @eg0ist
+# ⚡ 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+Enthusiast;FiveM+%26+LUA+Developer;Building+things+since+2021" alt="Typing SVG" />
