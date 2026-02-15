@@ -31,18 +31,7 @@ Cześć! Jestem **eg0ist**. Moja przygoda z programowaniem zaczęła się w 2020
 
 ---
 
-### 📊 My Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eg0ist&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg0ist&layout=compact&langs_count=7&theme=dark" />
-</p>
-
----
-
-### 🌐
-
-[<img src="https://img.shields.io/badge/Website-eg0ist.xyz-00FF41?style=for-the-badge&logo=google-chrome&logoColor=white">](https://eg0ist.xyz)
+![Moja strona][<img src="https://img.shields.io/badge/Website-eg0ist.xyz-00FF41?style=for-the-badge&logo=google-chrome&logoColor=white">](https://eg0ist.xyz)
 
 ---
 <p align="center">
