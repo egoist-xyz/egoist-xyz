@@ -30,10 +30,6 @@ Cześć! Jestem **eg0ist**. Moja przygoda z programowaniem zaczęła się w 2020
 ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
-
-[<img src="https://img.shields.io/badge/Website-eg0ist.xyz-00FF41?style=for-the-badge&logo=google-chrome&logoColor=white">](https://eg0ist.xyz)
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhmaltf/mhmaltf/main/terminal.gif" width="100%" />
 </p>
